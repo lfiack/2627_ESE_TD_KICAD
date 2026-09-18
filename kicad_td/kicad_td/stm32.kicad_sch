@@ -2630,8 +2630,8 @@
 		(uuid "2f74de48-d7b0-4b7f-afa9-dae6209219fe")
 	)
 	(no_connect
-		(at 111.76 67.31)
-		(uuid "5c7ed8f9-1f4e-4947-ba2e-9bd2b9906edd")
+		(at 111.76 57.15)
+		(uuid "5a586f87-4f0c-410c-9af1-69dfe9f84008")
 	)
 	(no_connect
 		(at 86.36 77.47)
@@ -3407,7 +3407,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 57.15) (xy 120.65 57.15)
+			(xy 111.76 67.31) (xy 120.65 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3536,7 +3536,7 @@
 		(uuid "8f9fbfee-4c53-46cc-8880-2e17cc66afd5")
 	)
 	(label "STATUS"
-		(at 120.65 57.15 180)
+		(at 120.65 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
