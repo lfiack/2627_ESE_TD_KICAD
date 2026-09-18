@@ -2622,8 +2622,68 @@
 		(uuid "061797ac-5555-4373-b6dd-1ef226d6d6e2")
 	)
 	(no_connect
+		(at 111.76 82.55)
+		(uuid "18aba2e6-29a5-4e9d-8fa6-b5982861f6d3")
+	)
+	(no_connect
 		(at 198.12 68.58)
 		(uuid "2f74de48-d7b0-4b7f-afa9-dae6209219fe")
+	)
+	(no_connect
+		(at 111.76 67.31)
+		(uuid "5c7ed8f9-1f4e-4947-ba2e-9bd2b9906edd")
+	)
+	(no_connect
+		(at 86.36 77.47)
+		(uuid "5d5a7303-4e20-44c2-862c-131f3d311250")
+	)
+	(no_connect
+		(at 111.76 80.01)
+		(uuid "62147265-a671-4fbb-bfc8-6237704c022d")
+	)
+	(no_connect
+		(at 111.76 62.23)
+		(uuid "649c4744-f3e5-43ba-a2eb-5e0ca27f3fc6")
+	)
+	(no_connect
+		(at 111.76 72.39)
+		(uuid "6843a02c-d621-4b64-9761-f5bbe22202a0")
+	)
+	(no_connect
+		(at 111.76 77.47)
+		(uuid "6ca3aaae-7cac-454b-a36c-b536cde5d5bc")
+	)
+	(no_connect
+		(at 86.36 74.93)
+		(uuid "6f029390-affa-4c85-b9ad-6de0498390ed")
+	)
+	(no_connect
+		(at 86.36 85.09)
+		(uuid "b2b485ce-720e-40a0-a51c-4f009e71f4c4")
+	)
+	(no_connect
+		(at 111.76 74.93)
+		(uuid "be7c5d74-6046-477b-b6b2-e5e521089963")
+	)
+	(no_connect
+		(at 111.76 69.85)
+		(uuid "d1f959ac-5f52-4dce-8880-ca504b9a0edf")
+	)
+	(no_connect
+		(at 111.76 95.25)
+		(uuid "d4d5a156-9f64-4456-803a-b681c6112fe7")
+	)
+	(no_connect
+		(at 111.76 59.69)
+		(uuid "d7e3726e-e2f4-4dbb-b70d-c7874662a29f")
+	)
+	(no_connect
+		(at 86.36 69.85)
+		(uuid "d99aff66-d95b-4fc5-90f6-ecaef3507108")
+	)
+	(no_connect
+		(at 111.76 64.77)
+		(uuid "ef465cb7-7348-4d56-a621-5c84512818fe")
 	)
 	(wire
 		(pts
@@ -3746,6 +3806,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C3975190"
+			(at 210.82 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "60e55609-571e-409c-8e6f-5018b914a39d")
 		)
@@ -3864,6 +3935,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C1525"
+			(at 86.36 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f4b6e08-08e7-4c98-97d3-96c5648f74a3")
 		)
@@ -3884,10 +3966,10 @@
 		(at 193.04 73.66 0)
 		(unit 1)
 		(body_style 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
+		(on_board no)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "149f6dc5-e348-45d6-a461-66a9deaf4b53")
@@ -4107,6 +4189,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C15195"
+			(at 106.68 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e353610b-3e67-4536-a8c7-388b8a6a9950")
 		)
@@ -4189,6 +4282,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C52923"
+			(at 115.57 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "40936a8d-51db-43bd-922e-fcda25339526")
 		)
@@ -4261,6 +4365,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 45.72 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
 			(at 45.72 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -4353,6 +4468,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C1525"
+			(at 38.1 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "28a1a819-3ded-439e-a4ff-6e1d2f45eba6")
 		)
@@ -4373,10 +4499,10 @@
 		(at 193.04 76.2 0)
 		(unit 1)
 		(body_style 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
+		(on_board no)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dd15ed2-3bfa-4ffc-95f9-ae138f18f67f")
@@ -4597,6 +4723,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C529357"
+			(at 99.06 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "23"
 			(uuid "dbba1555-34ce-4710-b353-756dc0094d6b")
 		)
@@ -4771,6 +4908,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 45.72 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2286"
+			(at 45.72 161.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5255,6 +5403,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C1525"
+			(at 77.47 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ed2aaef-bec6-4480-8c79-89093fbae28f")
 		)
@@ -5327,6 +5486,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 60.96 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
 			(at 60.96 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -5509,6 +5679,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C2286"
+			(at 60.96 161.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "443a46de-d650-496b-864f-c0fa0abc28f6")
 		)
@@ -5670,6 +5851,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C32949"
+			(at 64.77 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "31fa2d92-8fe9-4366-90fe-14f0dbfe3c1d")
 		)
@@ -5752,6 +5944,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C23733"
+			(at 68.58 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2c6e689b-b73e-457a-8f74-b60f84db2cf2")
 		)
@@ -5825,6 +6028,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 49.53 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C32949"
+			(at 49.53 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
