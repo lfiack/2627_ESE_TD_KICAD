@@ -1,0 +1,173 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c2d09627-57b0-4e72-9586-a358865cac88")
+	(paper "A4")
+	(title_block
+		(title "Tuto USB-C")
+		(date "2026-09-18")
+		(rev "1.0")
+		(company "ENSEA")
+		(comment 1 "Laurent Fiack")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 114.3 55.88) (xy 127 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58c134a6-ba95-47c7-b52e-f3bcf9c55102")
+	)
+	(wire
+		(pts
+			(xy 114.3 53.34) (xy 127 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "657eed7c-a52c-4fc8-98d3-98b5a8437ac9")
+	)
+	(sheet
+		(at 127 50.8)
+		(size 76.2 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "06e9edf8-b76e-4176-a7a6-3542129b913c")
+		(property "Sheetname" "STM32"
+			(at 127 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32.kicad_sch"
+			(at 127 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STM32_D+" bidirectional
+			(at 127 53.34 180)
+			(uuid "ad62b774-8d61-4df5-ae1f-77f97bfb7644")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "STM32_D-" bidirectional
+			(at 127 55.88 180)
+			(uuid "3a19c7ab-a549-41db-b3e9-7060036138d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "kicad_td"
+				(path "/c2d09627-57b0-4e72-9586-a358865cac88"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 50.8)
+		(size 76.2 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c44a483e-3988-40bc-819a-b34855843ac0")
+		(property "Sheetname" "USB"
+			(at 38.1 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 38.1 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STM32_D+" bidirectional
+			(at 114.3 53.34 0)
+			(uuid "5d70eba5-d64b-439f-ae2b-1b7eda80c7d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STM32_D-" bidirectional
+			(at 114.3 55.88 0)
+			(uuid "e4753847-47a2-437c-8f1d-7cbf9b7715be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "kicad_td"
+				(path "/c2d09627-57b0-4e72-9586-a358865cac88"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
