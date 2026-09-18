@@ -3597,7 +3597,7 @@
 	)
 	(hierarchical_label "STM32_D-"
 		(shape bidirectional)
-		(at 125.73 87.63 0)
+		(at 125.73 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3608,7 +3608,7 @@
 	)
 	(hierarchical_label "STM32_D+"
 		(shape bidirectional)
-		(at 125.73 85.09 0)
+		(at 125.73 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
